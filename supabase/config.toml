@@ -1,0 +1,13 @@
+project_id = "yhpaxsqudeiphxradzfx"
+
+[functions.scan-license]
+verify_jwt = false
+
+[functions.license-chat]
+verify_jwt = false
+
+[functions.lemon-checkout]
+verify_jwt = false
+
+[functions.lemon-webhook]
+verify_jwt = false
