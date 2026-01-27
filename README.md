@@ -4,6 +4,9 @@ An open-source web application focused on simplifying and explaining software li
 
 ---
 
+# Live On
+Link: https://www.clicense.online
+
 ## Overview
 CLicense aims to reduce confusion around software licenses by presenting key terms and implications in a simple and accessible format.
 
