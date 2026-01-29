@@ -1,81 +1,62 @@
-# CLicense
+# CLicense 🛡️
 
-An open-source web application focused on simplifying and explaining software licenses in clear, human-readable language.
-
----
-
-# Live On
-Link: - https://www.clicense.online
+An open-source web application designed to simplify complex software licenses into clear, human-readable insights.
 
 ---
 
-## Overview
-CLicense aims to reduce confusion around software licenses by presenting key terms and implications in a simple and accessible format.
-
-The project is designed to be:
-- Transparent
-- Open-source
-- Easy to understand
-- Practical for real-world use
+## 🚀 Live Demo
+**Link:** [www.clicense.online](https://www.clicense.online)
 
 ---
 
-## Why This Project Exists
-Software licenses are often difficult to interpret, especially for developers and founders who want to quickly understand what they can and cannot do.
+## 📖 Overview
+CLicense solves the "Terms & Conditions" headache. It interprets legal software licenses and presents key permissions, limitations, and obligations in a simplified format for developers and founders.
 
-CLicense exists to:
-- Lower the barrier to understanding licenses
-- Encourage informed usage of open-source software
-- Provide clarity without legal jargon
-
----
-
-## How to Use
-Using CLicense is intentionally simple.
-
-1. Copy the URL of any software Model  
-   (for example: MIT, Apache, GPL, etc.)
-2. Paste the Model URL into the input field on the website
-3. Submit the link to receive a simplified explanation of the license
-
-No setup or configuration is required for basic usage.
+### Key Goals:
+- **Clarity:** Break down legal jargon.
+- **Transparency:** Open-source and community-driven.
+- **Efficiency:** Quick pasted-link analysis.
 
 ---
 
-## How It’s Built
-The initial structure of the website was created using AI-assisted tooling.  
-All content refinement, structural decisions, and integrations are handled Manually and AI.
+## 🛠️ Tech Stack & Architecture
+This project follows a **Hybrid Development Approach**, combining modern AI-assisted prototyping with manual engineering refinements.
 
-This approach enables faster iteration while maintaining full control over the system.
-
----
-
-## Project Status
-CLicense has been officially launched and is publicly available.
-
-The project is stable for use, and ongoing updates will continue to improve:
-- Backend structure and reliability
-- License explanation quality
-- Core logic and data handling
+- **Frontend:** React / Vite (Structured via AI-assisted architecture for rapid UI/UX deployment).
+- **Current Core:** Prompt-engineered logic for license interpretation.
+- **Planned Backend:** Transitioning to a dedicated **Java (Spring Boot)** microservice for robust license parsing and data handling.
 
 ---
 
-## Open Source Philosophy
-CLicense is fully open source and developed in public.
-
-The goal is transparency, long-term improvement, and community-driven clarity around software licenses.  
-Contributions, discussions, and feedback will be welcomed as the project evolves.
-
----
-
-## Roadmap (High-Level)
-- Improve backend reliability
-- Expand supported license types
-- Enhance explanation accuracy
-- Introduce contribution guidelines
+## 🧠 Why This Project?
+Software licenses are barriers to innovation. CLicense was built to:
+1. Lower the barrier for understanding open-source compliance.
+2. Foster informed usage of community software.
+3. Serve as my initial journey into **Product Lifecycle Management** and **Full-stack Development**.
 
 ---
 
-## License
-This project is released under an open-source license.  
-See the `LICENSE` file for details.
+## 🏗️ How It Was Built
+I believe in using the best tools available. The initial skeleton of CLicense was created using **AI-assisted tooling (Lovable/v0)** to focus on rapid prototyping and user flow. 
+
+As a **Backend Engineering student (Java & Python)**, I am currently refactoring the core logic manually to move away from AI dependency and towards a scalable, engineered system.
+
+---
+
+## 📅 Roadmap (The Engineer's Path)
+- [ ] **Phase 1:** Complete manual refactoring of the frontend components.
+- [ ] **Phase 2:** Implement a **Java-based Backend** for secure API handling.
+- [ ] **Phase 3:** Integrate **Python-based Web Scraping** for real-time license updates.
+- [ ] **Phase 4:** Add Unit Testing using **JUnit** to ensure reliability.
+
+---
+
+## 🤝 Open Source & Contributions
+CLicense is developed in public. I am a firm believer in the **Open Source Philosophy**. 
+- Feedback is welcome.
+- Contributions to the upcoming Java backend are highly encouraged.
+
+---
+
+## 📄 License
+This project is licensed under the **MIT License**. See the `LICENSE` file for details.
