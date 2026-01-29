@@ -101,7 +101,7 @@ export default function Index() {
               <span className="font-semibold">CLicense</span>
             </div>
             <p className="text-sm text-muted-foreground">
-              © 2024 CLicense. Not legal advice.
+              © 2026 CLicense. Not legal advice.
             </p>
           </div>
         </div>
