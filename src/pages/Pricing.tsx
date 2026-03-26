@@ -191,7 +191,7 @@ export default function Pricing() {
               Simple, transparent pricing
             </h1>
             <p className="max-w-2xl text-lg text-muted-foreground md:text-xl animate-fade-in [animation-delay:200ms]">
-              Choose the plan that fits your needs. Upgrade or downgrade anytime.
+              The Payment Method is Dummy, I just wanted to try, PRO is Free Try and let me know some feedback.
             </p>
           </div>
 
